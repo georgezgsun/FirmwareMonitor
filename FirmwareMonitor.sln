@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirmwareMonitor", "FirmwareMonitor\FirmwareMonitor.csproj", "{DB66A778-E2AA-4133-AB6A-309BED397F62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB66A778-E2AA-4133-AB6A-309BED397F62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB66A778-E2AA-4133-AB6A-309BED397F62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB66A778-E2AA-4133-AB6A-309BED397F62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB66A778-E2AA-4133-AB6A-309BED397F62}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC5E7C17-3A81-4B94-8158-E5C2A855A2E8}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 6
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://engrtfs:8080/tfs/stalkerprojects
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = AustinX\\AustinX\\AustinX.csproj
+		SccProjectName1 = AustinX/AustinX
+		SccLocalPath1 = AustinX\\AustinX
+		SccProjectUniqueName2 = AustinX\\FFMPEGLibrary\\FFMPEGLibrary.vcxproj
+		SccProjectName2 = AustinX/FFMPEGLibrary
+		SccLocalPath2 = AustinX\\FFMPEGLibrary
+		SccProjectUniqueName3 = AustinX\\OpenDemoX-56\\CameraLibOpenX.csproj
+		SccProjectName3 = AustinX/OpenDemoX-56
+		SccLocalPath3 = AustinX\\OpenDemoX-56
+		SccProjectUniqueName4 = Live\u0020Media\u0020GPS\u0020PC\u0020App\\CopTrax.csproj
+		SccProjectName4 = Live\u0020Media\u0020GPS\u0020PC\u0020App
+		SccLocalPath4 = Live\u0020Media\u0020GPS\u0020PC\u0020App
+		SccProjectUniqueName5 = IncaXPC-Installer\\IncaXPC-Installer.vdproj
+		SccProjectName5 = IncaXPC-Installer
+		SccLocalPath5 = IncaXPC-Installer
+	EndGlobalSection
+EndGlobal
